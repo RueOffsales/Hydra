@@ -1,4 +1,4 @@
-![image](https://github.com/RueOffsales/Hydra/assets/123130400/b72d340e-835a-4de4-9314-910b79e632cc)
+![image](https://cdn.discordapp.com/attachments/936859591059324971/1162444166081544312/adadawwa.png?ex=653bf57e&is=6529807e&hm=6b4783a3689a9b7d47afac529b361d6b460ec95324647582c921b73051365bb7&)
 
 # Hydra
 Welcome to Hydra, A Professional Penetration Tool, Created For Educational Purposes, Mostly Used By Developers To Test The Security Of Their Game, A Tool With Several "Malicious" Functions And Functions To Scan The Internals Of Your Game.
@@ -30,7 +30,7 @@ First, let's understand how the Hydra tool works. Hydra is not exactly one tool 
 ## How to use Hydra
 in the **TextBox** You need to Type the command who say "Input Command" And Press Execute. There are a Image with Tutorial.
 
-![image](https://github.com/RueOffsales/Hydra/assets/123130400/7a81769c-fe65-4e77-8ce2-26da73f12a19)
+![image](https://cdn.discordapp.com/attachments/936859591059324971/1162392740642967622/image.png?ex=653bc599&is=65295099&hm=a79b48a2103a1207fb7f04fb1d4f7497f2152fdacd9b8fa40089be6c4a39b20b&)
 
 > After Putting command it will Open a page with the command you put.
 
