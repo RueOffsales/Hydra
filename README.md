@@ -14,10 +14,16 @@ Welcome to Hydra, A Professional Penetration Tool, Created For Educational Purpo
 First, let's understand how the Hydra tool works. Hydra is not exactly one tool but several in one, these tools are mentioned with commands in a **TextBox**. Hydra use Lua leanguague and is Made in Roblox Studio, Framework LS , Design by ruerue1br23
 
 ## Features
-> Feature
-```
-a
-```
+> Features
+
+ - `Tools Scanning And Clone` - Show you every tool in game , And button that you can clone it to your inventory
+
+ - `Event Scanning` - Show you every Event is in game
+
+ - `Players Scanning and Teleport` - Show you The Players in game and a Button you can teleport to it
+
+ - `Tools Scanning Brute force UI (UI BANNABLE)` - Open an Ui that Show you eveyr tools in game but with More 
+ Penetration (OBS: Separate Ui has not anti-cheat bypass)
 
 ## How to use Hydra
 in the **TextBox** You need to Type the command who say "Input Command" And Press Execute. There are a Image with Tutorial.
@@ -26,7 +32,31 @@ in the **TextBox** You need to Type the command who say "Input Command" And Pres
 
 > After Putting command it will Open a page with the command you put.
 
+To Hide any Page just clear the **TextBox** And Press Execute, It will make you come back to Home page
 ## Commands 
 ```
-a
+<Credits> = "Credit"  --(/? , Show the Creators of Hydra)
+
+<Tools Scanning> = "Show Tools" , "Show Tool" , "Tool" , "Tools"
+
+<Events Scanning> = "Show Events" , "Show Event" , "Event" , "Events"
+
+<Player Finding> = "Players"
+
+<Tools Scanning Brute Force> = "Tools Brute force" , "TBrute" , "Tools Brute" , "TB"  --(/? , BRUTE FORCE UI IS BANNABLE!)
+
 ```
+## Warns
+- [F2]() To Refresh Tools Scanning Page, Refresh will Delete Old tools scanned and Start a New Scan
+
+- [F3]() To Refresh Events Scanning Page, Refresh will Delete Old Events scanned and Start a New Scan
+> This warn will show when you execute hydra
+
+## Support for Errors
+Having Trouble? see this Simple List of Fix or Contact me on Discord > specll
+
+- Tools & Events Page are having a Lot of Results with same name? Just press the Warns Key ( F2 , F3) to Refresh it
+
+- Minimize Button are Currently Not working.
+
+## 
