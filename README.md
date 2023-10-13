@@ -85,5 +85,9 @@ Having Trouble? see this Simple List of Fix or Contact me on Discord > specll
 - `This is Hydra Official GitHub page, Here we post the Newest Information of Hydra.`
   Hydra Corp: Created by DyoxideCarbon group
 
+  - **Social Links**
+
+    [GitLab](https://gitlab.com/dyoxidecarbon/hydrapanel.git)
+
 ## Release
 No Time or Data to release Hydra. We are Working in it.
