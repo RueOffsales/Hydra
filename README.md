@@ -22,7 +22,7 @@ First, let's understand how the Hydra tool works. Hydra is not exactly one tool 
 
  - `Players Scanning and Teleport` - Show you The Players in game and a Button you can teleport to it
 
- - `Tools Scanning Brute force UI (UI BANNABLE)` - Open an Ui that Show you eveyr tools in game but with More 
+ - `Tools Scanning Brute force UI (UI BANNABLE)` - Open an Ui that Show you every tools in game but with More 
  Penetration (OBS: Separate Ui has not anti-cheat bypass)
 
 ## How to use Hydra
@@ -59,4 +59,5 @@ Having Trouble? see this Simple List of Fix or Contact me on Discord > specll
 
 - Minimize Button are Currently Not working.
 
-## 
+## Showcase
+
