@@ -10,6 +10,8 @@ Welcome to Hydra, A Professional Penetration Tool, Created For Educational Purpo
 > Project Started in 9/10/2023
 **V1.3 [BETA]**
 
+> Hydra is in Development!
+
 ## Starting With Hydra
 First, let's understand how the Hydra tool works. Hydra is not exactly one tool but several in one, these tools are mentioned with commands in a **TextBox**. Hydra use Lua leanguague and is Made in Roblox Studio, Framework LS , Design by ruerue1br23
 
@@ -59,5 +61,29 @@ Having Trouble? see this Simple List of Fix or Contact me on Discord > specll
 
 - Minimize Button are Currently Not working.
 
-## Showcase
+## Facs
 
+- B: I can Get banned by Using Hydra in any game?
+ `R: No, Our Anti-cheat Bypass is One of the bests Of all roblox, Only Tools Brute force UI Can ban you, Or if any Admin see you using Hydra.`
+
+------------------------------------------
+
+- B: Hydra is Free?
+  `R: Yes! Hydra is 100% Free.`
+
+------------------------------------------
+
+- B: Hydra is Illegal?
+  `R: Not if you use for Security Purpose, Hydra Idea Can break Roblox ToS.`
+
+-------------------------------------------
+
+- B: Hydra work 100%?
+  `R: Not 100% But Hydra is Very good in Scanning What the game is Hiding of You.`
+
+## Hydra lsp
+- `This is Hydra Official GitHub page, Here we post the Newest Information of Hydra.`
+  Hydra Corp: Created by DyoxideCarbon group
+
+## Release
+No Time or Data to release Hydra. We are Working in it.
