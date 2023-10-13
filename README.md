@@ -61,7 +61,7 @@ Having Trouble? see this Simple List of Fix or Contact me on Discord > specll
 
 - Minimize Button are Currently Not working.
 
-## Facs
+## Faq
 
 - B: I can Get banned by Using Hydra in any game?
  `R: No, Our Anti-cheat Bypass is One of the bests Of all roblox, Only Tools Brute force UI Can ban you, Or if any Admin see you using Hydra.`
