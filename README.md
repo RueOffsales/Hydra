@@ -53,6 +53,8 @@ To Hide any Page just clear the **TextBox** And Press Execute, It will make you 
 
 <Refresh player> = "reset" , "refresh"
 
+<Leave game> = "leave"
+
 ```
 ## Warns
 - [F2]() To Refresh Tools Scanning Page, Refresh will Delete Old tools scanned and Start a New Scan
