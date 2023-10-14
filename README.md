@@ -27,6 +27,8 @@ First, let's understand how the Hydra tool works. Hydra is not exactly one tool 
  - `Tools Scanning Brute force UI (UI BANNABLE)` - Open an Ui that Show you every tools in game but with More 
  Penetration (OBS: Separate Ui has not anti-cheat bypass)
 
+- `Admin Scanner` - Show every Admin Model or Admins script in the game (if game use any admin like HD and Adonis)
+
 ## How to use Hydra
 in the **TextBox** You need to Type the command who say "Input Command" And Press Execute. There are a Image with Tutorial.
 
@@ -46,6 +48,10 @@ To Hide any Page just clear the **TextBox** And Press Execute, It will make you 
 <Player Finding> = "Players"
 
 <Tools Scanning Brute Force> = "Tools Brute force" , "TBrute" , "Tools Brute" , "TB"  --(/? , BRUTE FORCE UI IS BANNABLE!)
+
+<Admin Scanner> = "admin"
+
+<Refresh player> = "reset" , "refresh"
 
 ```
 ## Warns
