@@ -3,6 +3,6 @@
 # Hydra
 
 This Project is Freezed due to Byfron release. We saved all site data to in a New bypass of byfron we could Release hydra.
-
+(Hydra is for pcs Only.)
 * **Be Updated**
 
